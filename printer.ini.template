@@ -1,0 +1,3 @@
+[Command]
+Target = <path to target program>
+Record = command_log.txt
